@@ -1,6 +1,6 @@
 # Proyecto
 
-Cada equipo desarrollará un proyecto relacionado con una de las siguientes áreas:
+Cada equipo desarrollará un proyecto que toque al menos una de las siguientes áreas:
 
 - **Auditoría y monitorización con IA**
 - **DeFi**
